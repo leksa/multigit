@@ -71,3 +71,5 @@ And then the important part is connect your test repo folder to remote git repos
 `git pull origin master`
 
 Congrats! You have connected to the new repo and success to pull the README file (or a LICENSE file).
+
+> **TIPS** : You can setting your `git config --global --edit` to match your name and email address to bypass the warning for git global configuration
